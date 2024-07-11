@@ -1,0 +1,24 @@
+{
+  "name": "test_0000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.45.1",
+    "@reportportal/agent-js-playwright": "^5.1.9",
+    "ajv": "^8.16.0",
+    "browserstack-local": "^1.5.5",
+    "dotenv": "^16.4.5",
+    "prettier": "^3.3.2"
+  }
+}
